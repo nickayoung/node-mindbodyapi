@@ -1,6 +1,6 @@
 {
   "name": "mindbodyapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mindbody Online REST API Wrapper",
   "main": "lib/mindbodyapi.js",
   "scripts": {
