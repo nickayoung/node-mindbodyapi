@@ -1,0 +1,31 @@
+{
+  "name": "mindbodyapi",
+  "version": "1.0.0",
+  "description": "Mindbody Online REST API Wrapper",
+  "main": "lib/mindbodyapi.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickayoung/node-mindbodyapi.git"
+  },
+  "keywords": [
+    "mindbody",
+    "api",
+    "rest",
+    "wrapper"
+  ],
+  "author": "Nick Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickayoung/node-mindbodyapi/issues"
+  },
+  "homepage": "https://github.com/nickayoung/node-mindbodyapi#readme",
+  "devDependencies": {
+    "jest": "^21.2.0"
+  },
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
